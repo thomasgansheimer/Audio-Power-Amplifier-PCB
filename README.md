@@ -14,7 +14,7 @@ I then constructed the circuit on a breadboard. Using a digital multimeter, I ve
 <img src=Breadboard/breadboard.jpg height=500>
 
 ## PCB Design
-Next I used EAGLE software to build a PCB design of the circuit. Components were placed to minimize the size of the board and the number of drill holes needed.
+Next I used EAGLE software to build a [PCB design](PCB/CAMOutputs) of the circuit. Components were placed to minimize the size of the board and the number of drill holes needed.
 
 <img src=PCB/top_side.png height=300>
 After having the design manufactured, I soldered all components to the board. Finally, I tested the finished product by having it play an audio file, and verified that the circuit worked as designed!
